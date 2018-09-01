@@ -57,7 +57,6 @@ This is an advance CSS exercice, if you are confident of your CSS skills I reall
 * [FreeCodeCamp : Learn to code for free](https://www.freecodecamp.org/)
 * [Mozila Developers Network web tutorials](https://developer.mozilla.org/en-US/docs/Web)
 * [Github statistics of 2017 ](https://octoverse.github.com/)
-* [Web developer roadmap 2017 ](https://github.com/kamranahmedse/developer-roadmap)
 * [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 * [How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
 * [CSS Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
@@ -66,7 +65,7 @@ This is an advance CSS exercice, if you are confident of your CSS skills I reall
 * [CSS illustrated and animated properties](http://cssreference.io/)
 * [SPA vs MPA ](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
 * [SQL vs NoSQL ](https://www.sitepoint.com/sql-vs-nosql-differences/)
-* [More Detailed Roadmap ](https://github.com/kamranahmedse/developer-roadmap)
+* [More Detailed Web Developer Roadmap ](https://github.com/kamranahmedse/developer-roadmap)
 
 ###### Contributions Are Welcome
 
